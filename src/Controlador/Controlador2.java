@@ -56,6 +56,7 @@ public class Controlador2 implements Observador {
     public void MostrarSelecciondeCarta(){
         this.vista2.MostrarSeleccionCarta();
     }
+
     public void MostrarTurno(){
         this.MostrarMesa();
         this.MostrarMano();

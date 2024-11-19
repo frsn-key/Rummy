@@ -4,41 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d49b5f68-e49e-4571-a98e-319720991272" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rummy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controlador/Controlador2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controlador/Observador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controlador/ValidacionesIngreso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Cartas/Carta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Cartas/CartasenMesa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Cartas/Mazo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Cartas/Palo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Cartas/SetsCarta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Cartas/Valor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Colecciones/Coleccion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Colecciones/ColeccionCartas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Colecciones/Jugadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Estados/EstadoGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Estados/EstadoJugador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Estados/EstadoTurno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Estados/TipodeSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Estados/Ubicacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Juego/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Juego/Partida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Jugador/Jugador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vista/Mostrable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vista/PseudoConsola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vista/Vista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vista/Vista2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vista/VistaConsola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tst.java" afterDir="false" />
+    <list default="true" id="d49b5f68-e49e-4571-a98e-319720991272" name="Changes" comment=".">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controlador/Controlador2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controlador/Controlador2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modelo/Cartas/Mazo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Cartas/Mazo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="33996771-9466-4587-9543-730a1f0e04a4" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -72,7 +45,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/franxXY/Corazones/src/Corazones/Colecciones/Mazo.java",
-    "settings.editor.selected.configurable": "com.kn.diagrams.generator.settings.DiagramGeneratorSettingsPage"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.109289646",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -90,6 +66,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\franxXY\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d49b5f68-e49e-4571-a98e-319720991272" name="Changes" comment="" />
@@ -98,7 +77,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729025900628</updated>
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1732030029518</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732030029518</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -107,16 +98,11 @@
           <properties class="java.lang.StackOverflowError" package="java.lang" />
           <option name="timeStamp" value="4" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Modelo/Cartas/SetsCarta.java</url>
-          <line>40</line>
-          <properties class="Modelo.Cartas.SetsCarta" method="AgregarCarta">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

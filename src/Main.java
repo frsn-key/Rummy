@@ -10,7 +10,6 @@ import Vista.PseudoConsola;
 import javax.swing.*;
 
 public class Main {
-
     public static void main(String[] args) {
         Jugador jugador = Jugador.crearJugador("Rsn");
         Jugadores jugadores = Jugadores.crer_Jugadores();
@@ -19,8 +18,5 @@ public class Main {
         jugadores.AgregarJugador(jugador);
         Partida partida = Partida.CrearPartdia(jugadores);
         partida.InicializarPartida();
-
     }
-
-
 }
